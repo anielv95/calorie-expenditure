@@ -22,3 +22,4 @@ pipenv
 flask
 requests
 nbconvert
+xgboost
